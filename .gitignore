@@ -1,0 +1,21 @@
+# Test results
+results/
+*.html
+*.json
+
+# Logs
+*.log
+
+# Data
+data/*.csv
+!data/sample.csv
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
