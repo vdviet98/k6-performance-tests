@@ -5,6 +5,6 @@ Performance testing scripts using K6 with InfluxDB and Grafana integration.
 ## Prerequisites
 
 - Docker Desktop
-- K6 Monitoring Server running (see [k6-performance-monitoring](../k6-performance-monitoring))
+- K6 Monitoring Server running (see [k6-performance-monitoring](https://github.com/vdviet98/k6-performance-monitoring))
 
 ## Project Structure
